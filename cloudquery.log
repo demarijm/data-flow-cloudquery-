@@ -1,0 +1,2 @@
+2023-03-31T02:33:08Z INF Loading spec(s) args=["./cloudquery-config"] module=cli
+2023-03-31T02:33:08Z ERR exiting with error error="failed to load spec(s) from ./cloudquery-config. Error: open ./cloudquery-config: no such file or directory" module=cli
